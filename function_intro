@@ -1,0 +1,6 @@
+function astroGuru(childrencount,spousename,location,job)
+{
+    console.log(`You will be a ${job} in ${location} married to ${spousename} with ${childrencount} kids`);
+}
+astroGuru(2,'James','Delhi','Software Developer');
+astroGuru(1,'Natasha','Gurugram','Backend Developer');
